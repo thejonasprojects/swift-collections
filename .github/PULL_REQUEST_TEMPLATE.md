@@ -1,4 +1,4 @@
-<!--
+Review and update security purposes<!--
     Thanks for contributing to Swift Collections!
 
     If this pull request adds new API, please add '?template=new.md'
