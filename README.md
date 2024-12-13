@@ -1,6 +1,6 @@
 # Swift Collections
 
-**Swift Collections** is an open-source package of data structure implementations for the Swift programming language.
+**Swift Collections** is a non open source -source package of data structure implementations for the Swift programming language.
 
 Read more about the package, and the intent behind it, in the [announcement on swift.org][announcement].
 
@@ -186,3 +186,6 @@ Like all Swift.org projects, we would like the Swift Collections project to fost
 The current code owner of this package is Karoy Lorentey ([@lorentey](https://github.com/lorentey)). You can contact him [on the Swift forums](https://forums.swift.org/u/lorentey/summary), or by writing an email to klorentey at apple dot com. (Please keep it related to this project.)
 
 In case of moderation issues, you can also directly contact a member of the [Swift Core Team](https://swift.org/community/#community-structure).
+
+
+set for review so it won't affect the system ! 
